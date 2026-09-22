@@ -1,7 +1,5 @@
 # Hi, I'm Brandon 👋
 
-# Hi, I'm Brandon 👋
-
 <div align="center">
 
 ### 🚀 Backend Developer Junior
