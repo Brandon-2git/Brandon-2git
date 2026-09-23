@@ -35,7 +35,7 @@ Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura 
 
 ### 📂 Proyectos
 
-* **[NexVenta](https://github.com/Brandon-2git)** — Sistema de gestión de ventas desarrollado desde cero para un distribuidor.
+* **[NexVenta](https://github.com/Brandon-2git](https://github.com/Brandon-2git/nexventa))** — Sistema de gestión de ventas desarrollado desde cero para un distribuidor.
   **Java · Spring Boot · JPA/Hibernate · MySQL · REST API**
 
 * **[EcoBite](https://github.com/Talently-Lab/s2625-EcoBite)** — Plataforma de delivery enfocada en entregas sostenibles y métricas de impacto ambiental.
