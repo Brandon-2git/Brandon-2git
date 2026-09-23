@@ -86,7 +86,7 @@ Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura 
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/brandon-chora/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Brandon-2git)
 
 ---
