@@ -41,8 +41,8 @@ Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura 
 * **[EcoBite](https://github.com/Talently-Lab/s2625-EcoBite)** — Plataforma de delivery enfocada en entregas sostenibles y métricas de impacto ambiental.
   **Node.js · Express · Prisma · PostgreSQL**
 
-* **iaComunitaria** — Asistente de IA local integrado en una intranet comunitaria mediante RAG y modelos de lenguaje locales.
-  **Python · Ollama · Llama · RAG · Docker · Linux**
+* **IdeaSpark** — Aplicación generadora de ideas creativas desarrollada como proyecto académico utilizando servicios de AWS y modelos generativos mediante Amazon Bedrock.
+  **AWS · Amazon Bedrock · Lambda · API Gateway · AWS CDK · Node.js · TypeScript**
 
 * **Sistema de Reservas de Citas** — Backend para la gestión de reservas y citas.
   **Python · Flask · SQLAlchemy · MySQL · JWT**
@@ -92,6 +92,11 @@ Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura 
 ---
 
 <div align="center">
+
+*Gracias por visitar mi perfil.*
+
+</div>
+
 
 *Gracias por visitar mi perfil.*
 
