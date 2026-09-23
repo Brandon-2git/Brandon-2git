@@ -41,10 +41,10 @@ Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura 
 * **[EcoBite](https://github.com/Talently-Lab/s2625-EcoBite)** — Plataforma de delivery enfocada en entregas sostenibles y métricas de impacto ambiental.
   **Node.js · Express · Prisma · PostgreSQL**
 
-* **IdeaSpark** — Aplicación generadora de ideas creativas desarrollada como proyecto académico utilizando servicios de AWS y modelos generativos mediante Amazon Bedrock.
+* **[IdeaSpark](https://github.com/Brandon-2git/ideaSpark)** — Aplicación generadora de ideas creativas desarrollada con servicios de AWS y modelos generativos mediante Amazon Bedrock.
   **AWS · Amazon Bedrock · Lambda · API Gateway · AWS CDK · Node.js · TypeScript**
 
-* **Sistema de Reservas de Citas** — Backend para la gestión de reservas y citas.
+* **[Sistema de Reservas de Citas](https://github.com/Brandon-2git/Sistema-Reservas-Citas)** — Backend para la gestión de reservas y citas.
   **Python · Flask · SQLAlchemy · MySQL · JWT**
 
 ---
