@@ -1,115 +1,69 @@
-# Hi, I'm Brandon 👋
+# ¡Hola! Soy Brandon 👋
+
+### Desarrollador Backend Junior | Java · Spring Boot · Node.js · REST APIs
+
+Soy desarrollador enfocado en backend, principalmente con **Java, Spring Boot, JPA/Hibernate y MySQL**. También trabajo con **Node.js, Express, Prisma y PostgreSQL**.
+
+Me interesa el desarrollo de APIs REST, diseño de bases de datos, arquitectura backend y la creación de soluciones prácticas y mantenibles.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+**Herramientas & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+### 📂 Proyectos
+
+* **[NexVenta](https://github.com/Brandon-2git)** — Sistema de gestión de ventas desarrollado desde cero para un distribuidor.
+  **Java · Spring Boot · JPA/Hibernate · MySQL · REST API**
+
+* **[EcoBite](https://github.com/Talently-Lab/s2625-EcoBite)** — Plataforma de delivery enfocada en entregas sostenibles y métricas de impacto ambiental.
+  **Node.js · Express · Prisma · PostgreSQL**
+
+* **iaComunitaria** — Asistente de IA local integrado en una intranet comunitaria mediante RAG y modelos de lenguaje locales.
+  **Python · Ollama · Llama · RAG · Docker · Linux**
+
+* **Sistema de Reservas de Citas** — Backend para la gestión de reservas y citas.
+  **Python · Flask · SQLAlchemy · MySQL · JWT**
+
+---
+
+### 📊 GitHub
 
 <div align="center">
 
-### 🚀 Backend Developer Junior
-
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=0,2,6,11,20,24\&height=300\&section=header\&text=Brandon\&fontSize=60\&fontColor=fff\&animation=twinkling\&fontAlignY=35\&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot\&descAlignY=55\&descAlign=50\&descSize=20)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=24\&duration=2500\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=900\&height=100\&lines=💻+Building+REST+APIs;☕+Java+%7C+Spring+Boot+%7C+JPA%2FHibernate;🗄️+MySQL+%7C+PostgreSQL;⚙️+Backend+Development+%26+Software+Architecture)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a **Backend Developer Junior** focused on building REST APIs and backend applications.
-
-My main stack is **Java, Spring Boot, JPA/Hibernate and MySQL**, while I also work with **Node.js, Express, PostgreSQL and Prisma**.
-
-I'm interested in backend development, API design, relational databases, software architecture and building practical solutions.
-
-### 🚀 Current Focus
-
-* ☕ Java & Spring Boot
-* 🔌 REST API development
-* 🗄️ Relational databases and SQL
-* 🧩 JPA / Hibernate
-* 🟢 Node.js & Express
-* 🐘 PostgreSQL & Prisma
-* 🐳 Docker
-* ☁️ AWS
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### ☕ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4&theme=dark" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=4&theme=dark" />
-
-### 🔧 Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6&theme=dark" />
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws&perline=4&theme=dark" />
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-### 🛒 NexVenta
-
-Sales management system developed from scratch for a distributor.
-
-**Technologies:** Java · Spring Boot · JPA/Hibernate · MySQL · REST API
-
----
-
-### 🌱 EcoBite
-
-Food delivery platform focused on sustainable delivery and environmental impact metrics.
-
-**Technologies:** Node.js · Express · Prisma · PostgreSQL
-
----
-
-### 🤖 iaComunitaria
-
-Local AI assistant for a community intranet using RAG and locally hosted language models.
-
-**Technologies:** Python · Ollama · Llama · RAG · Docker · Linux
-
----
-
-### 📅 Sistema de Reservas de Citas
-
-Backend system for managing appointment reservations.
-
-**Technologies:** Python · Flask · SQLAlchemy · MySQL · JWT
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandon-2git&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Brandon-2git&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon-2git&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon-2git&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-2git&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Brandon-2git&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de GitHub" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -119,44 +73,28 @@ Backend system for managing appointment reservations.
 
 ---
 
-## 📚 Currently Learning
+### 📚 Actualmente aprendiendo
 
-<div align="center">
-
-☕ **Advanced Spring Boot**
-🔐 **Backend Security & Authentication**
-🗄️ **Database Design**
-🏗️ **Backend Architecture**
-🐳 **Docker & Containerization**
-☁️ **AWS**
-
-</div>
+* Spring Boot y desarrollo de APIs REST
+* Seguridad y autenticación backend
+* Diseño de bases de datos
+* Arquitectura backend
+* Docker
+* AWS
 
 ---
 
-## 🌐 Connect
+### 📫 Contacto
 
-<div align="center">
-
-<a href="https://github.com/Brandon-2git">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-
-<!-- Replace with your real LinkedIn URL -->
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Brandon-2git)
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=150\&section=footer)
-
-### Thanks for visiting my profile.
+*Gracias por visitar mi perfil.*
 
 </div>
+
 
